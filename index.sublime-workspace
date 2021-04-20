@@ -1,0 +1,177 @@
+{
+	"auto_complete" :
+	{
+		"selected_items" :
+		[
+		]
+	} ,
+	"búferes" :
+	[
+	] ,
+	"build_system" : "" ,
+	"build_system_choices" :
+	[
+	] ,
+	"build_varint" : "" ,
+	"command_palette" :
+	{
+		"altura" : 0.0 ,
+		"last_filter" : "" ,
+		"selected_items" :
+		[
+		] ,
+		"ancho" : 0.0
+	} ,
+	"consola" :
+	{
+		"altura" : 0.0 ,
+		"historia" :
+		[
+		]
+	} ,
+	"distracción_gratis" :
+	{
+		"menu_visible" : verdadero ,
+		"show_minimap" : falso ,
+		"show_open_files" : falso ,
+		"show_tabs" : falso ,
+		"side_bar_visible" : falso ,
+		"status_bar_visible" : falso
+	} ,
+	"file_history" :
+	[
+		"/ C / Users / thomas / Desktop / test" ,
+		"/C/Users/thomas/Desktop/serveurmc/css/styles.css" ,
+		"/C/Users/thomas/Desktop/serveurmc/index.html" ,
+		"/C/Users/thomas/Desktop/serveurmc/js/index.html" ,
+		"/C/Users/thomas/Desktop/Corsucant/regle.html" ,
+		"/C/Users/thomas/Desktop/Corsucant/css/styles.css" ,
+		"/C/Users/thomas/Desktop/Corsucant/news.html" ,
+		"/C/Users/thomas/Desktop/Corsucant/presentation.html" ,
+		"/C/Users/thomas/Desktop/Corsucant/index.html" ,
+		"/C/Users/thomas/Desktop/Corsucant/relge.hyml" ,
+		"/C/Users/thomas/Desktop/Corsucant/chatbox.html" ,
+		"/C/Users/thomas/Desktop/Corsucant/css/style.css" ,
+		"/C/Users/thomas/Documents/test.html"
+	] ,
+	"buscar" :
+	{
+		"altura" : 0.0
+	} ,
+	"find_in_files" :
+	{
+		"altura" : 0.0 ,
+		"where_history" :
+		[
+		]
+	} ,
+	"find_state" :
+	{
+		"case_sensitive" : falso ,
+		"find_history" :
+		[
+		] ,
+		"resaltar" : verdadero ,
+		"in_selection" : falso ,
+		"preserve_case" : falso ,
+		"regex" : falso ,
+		"replace_history" :
+		[
+		] ,
+		"reverso" : falso ,
+		"show_context" : verdadero ,
+		"use_buffer2" : verdadero ,
+		"palabra_completa" : falso ,
+		"envolver" : verdadero
+	} ,
+	"grupos" :
+	[
+		{
+			"hojas" :
+			[
+			]
+		}
+	] ,
+	"incremental_find" :
+	{
+		"altura" : 0.0
+	} ,
+	"entrada" :
+	{
+		"altura" : 40,0
+	} ,
+	"diseño" :
+	{
+		"celdas" :
+		[
+			[
+				0 ,
+				0 ,
+				1 ,
+				1
+			]
+		] ,
+		"cols" :
+		[
+			0.0 ,
+			1.0
+		] ,
+		"filas" :
+		[
+			0.0 ,
+			1.0
+		]
+	} ,
+	"menu_visible" : verdadero ,
+	"output.find_results" :
+	{
+		"altura" : 0.0
+	} ,
+	"pinned_build_system" : "" ,
+	"proyecto" : "index.sublime-project" ,
+	"reemplazar" :
+	{
+		"altura" : 0.0
+	} ,
+	"save_all_on_build" : falso ,
+	"select_file" :
+	{
+		"altura" : 0.0 ,
+		"last_filter" : "" ,
+		"selected_items" :
+		[
+		] ,
+		"ancho" : 0.0
+	} ,
+	"select_project" :
+	{
+		"altura" : 0.0 ,
+		"last_filter" : "" ,
+		"selected_items" :
+		[
+		] ,
+		"ancho" : 0.0
+	} ,
+	"select_symbol" :
+	{
+		"altura" : 0.0 ,
+		"last_filter" : "" ,
+		"selected_items" :
+		[
+		] ,
+		"ancho" : 0.0
+	} ,
+	"grupo_seleccionado" : 0 ,
+	"configuración" :
+	{
+	} ,
+	"show_minimap" : verdadero ,
+	"show_open_files" : falso ,
+	"show_tabs" : verdadero ,
+	"side_bar_visible" : verdadero ,
+	"side_bar_width" : 150.0 ,
+	"status_bar_visible" : verdadero ,
+	"template_settings" :
+	{
+	}
+}
