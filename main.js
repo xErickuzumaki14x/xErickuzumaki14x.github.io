@@ -26,7 +26,7 @@ var  triesPerSecond  =  documento . getElementById ( 'velocidad' ) . valor  // a
 getGiftCode  =  function  ( )  {
     dejar  código  =  '' ;
     let  dict  =  'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789' ;
-    para ( var  i  =  0 ;  i  <  19 ;  i ++ ) {
+    para ( var  i  =  0 ;  i  <  16 ;  i ++ ) {
         código  =  código  +  dic . charAt ( Math . floor ( Math . random ( )  *  dict . length ) ) ;
     }
     consola . log ( '[GEN] http://discord.gift/'  +  código  +  "\ n" ) ;
