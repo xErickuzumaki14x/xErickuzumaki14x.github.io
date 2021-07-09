@@ -27,7 +27,7 @@ getGiftCode = function () {
     for(var i = 0; i < 19; i++){
         code = code + dict.charAt(Math.floor(Math.random() * dict.length));
     }
-    console.log('[GEN] ' + code + "\n");
+    console.log('[GEN] http://discord.gift/' + code + "\n");
     code += '\n'
     document.getElementById('b').value += code;
 
